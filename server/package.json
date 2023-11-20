@@ -16,7 +16,7 @@
     "express",
     "multer"
   ],
-  "author": "bezkoder",
+  "author": "Tushar",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
